@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+body{
+    background-image: url("../images/background20191101.jfif");
+}
+h2{
+    color: darkorange;
+    background-color: gold;
+    text-align: center;
+}
+table{
+    background: aquamarine;
+}
+ol{
+    background-image: url("../images/background20191115.jpg");
+}

@@ -13,11 +13,11 @@ body{
 }
 h2.orengecolor{
     color: orange;
-    background-color: gold;
+    background-color: aqua;
     text-align: center;
 }
 h2.redcolor{
     color: red;
-    background-color: aqua;
+    background-color: lightseagreen;
     text-align: center;
 }
